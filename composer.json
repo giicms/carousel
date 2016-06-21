@@ -1,0 +1,17 @@
+{    
+    "name": "giicms/carousel",
+    "description": "Module carousel",
+    "homepage": "https://github.com/giicms/carousel",
+    "keywords": ["yii2","carousel"],
+    "license": "MIT",
+    "minimum-stability": "beta",
+    "require": {
+        "php": ">=5.4",
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "giicms\\carousel\\": ""
+        }
+    }
+}
